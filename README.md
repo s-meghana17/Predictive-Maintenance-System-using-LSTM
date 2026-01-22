@@ -72,3 +72,7 @@ Predicted Remaining Useful Life (RUL) in cycles
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Outputs
+![My Photo]("C:\Users\megha\OneDrive\Pictures\Screenshots\Screenshot 2026-01-22 140038.png")
