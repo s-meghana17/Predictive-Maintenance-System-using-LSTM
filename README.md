@@ -42,8 +42,6 @@ Predicted Remaining Useful Life (RUL) in cycles
 
 
 
-![Screenshot of Output](outputs/Screenshot 2026-01-22 140038.png)
-
 ---
 
 ## 🛠️ Tech Stack
