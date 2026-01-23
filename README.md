@@ -55,6 +55,7 @@ Predicted Remaining Useful Life (RUL) in cycles
 ---
 
 ## 📂 Project Structure
+```
 ├── app.py
 ├── models/
 │ ├── lstm_model.h5
@@ -67,7 +68,7 @@ Predicted Remaining Useful Life (RUL) in cycles
 
 
 
----
+```
 
 ## ▶️ How to Run the App
 
@@ -75,4 +76,16 @@ Predicted Remaining Useful Life (RUL) in cycles
 pip install -r requirements.txt
 streamlit run app.py
 
----
+```
+
+
+### 🏠 Screenshots
+![Home Page](outputs/1.png)
+
+![Prediction Results](outputs/2.png)
+
+
+## 👩‍💻 Author
+**Meghana S**  
+Final-year AIML Student  
+Interested in AI, Machine Learning & Computer Vision
